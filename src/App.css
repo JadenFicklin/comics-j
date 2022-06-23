@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.one {
+  width: 200px;
+  height: 250px;
+  background-color: lightgray;
+  margin: 100px;
+  padding: 10px;
+}
+
+.opened-view {
+  position: absolute;
+  left: 0px;
+  width: 80%;
+  height: 100vh;
+  background-color: gray;
+  opacity: 50%;
+}
